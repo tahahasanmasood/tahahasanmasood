@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tahahasanmasood
 - 👀 I’m PhD Student with research interest in Deep Learning and Computer Vision
 - 🌱 I’m currently working on generative models
-- 💞️ I’m looking to collaborate on diffusion model and large language model (LLM) projects
+- 💞️ I’m looking to collaborate on diffusion model and GAN projects
 - 📫 Reach me at tahahasanmasood@gmail.com
 
 <!---
